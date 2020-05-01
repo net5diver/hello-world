@@ -1,3 +1,6 @@
+# Only this version is allowed to go to production
 version=0.0.1-rc26
+
+# The time is 24-hours format in yyyy/mm/dd_HH:MM
 start_time=2020/05/01_15:58
-duration=30 # in minutes
+end_time=2020/05/01_17:55
