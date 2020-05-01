@@ -1,1 +1,3 @@
-0.0.1-rc26 2020/05/01_15:58 30 minutes
+version=0.0.1-rc26
+start_time=2020/05/01_15:58
+duration=30 # in minutes
